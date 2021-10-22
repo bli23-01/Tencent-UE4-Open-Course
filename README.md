@@ -7,7 +7,7 @@ The lab of Tencent-UE4-Open-Course
 
 ## lab2
 **在原有NetShoot项目中加入新的射击目标以及倒计时结算等功能**    
-lab2中在原NetShoot项目上加入了新的可射击加分的浮空物体，以及加入了游戏倒计时功能并在右上角显示，时间到后会对该玩家进行结算。
 ***git release lab2***中包含：扩展功能演示视频以及win64包，百度网盘链接也有：链接：https://pan.baidu.com/s/1yreKeJ_EePpdjIiuZIeptw 提取码：1234   
+lab2中在原NetShoot项目上加入了新的可射击加分的浮空物体，以及加入了游戏倒计时功能并在右上角显示，时间到后会对该玩家进行结算。
 ***主要蓝图改动在BP_Projectile、MyHUD与新增EndGame中***  
 
